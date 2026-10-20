@@ -1,0 +1,54 @@
+{
+  "item": {
+    "id": "com.hiddenmode.sixone.hobjl",
+    "restype": "quick_app",
+    "name": "伪装模式",
+    "description": "全面拟真 丝滑伪装\n老师 这真的只是个普通手环",
+    "preview": [
+      "media/伪装模式@2x.png"
+    ],
+    "icon": "media/100_100@1x.png",
+    "cover": "media/伪装模式@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "伪装模式密钥购买链接",
+      "url": "https://afdian.com/item/2b8775c06d9a11efb79752540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.3.1",
+      "file_name": "downloads/环10-伪装模式-v1.3.1.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.3.1",
+      "file_name": "downloads/环10-伪装模式-v1.3.1.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.3.0",
+      "file_name": "downloads/环10P-伪装模式-v1.3.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.3.1",
+      "file_name": "downloads/环9-伪装模式-v1.3.1.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.3.0",
+      "file_name": "downloads/环9P-伪装模式-v1.3.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
