@@ -3,9 +3,13 @@
     "id": "com.hiddenmode.sixone.hobjl",
     "restype": "quick_app",
     "name": "伪装模式",
-    "description": "全面拟真 丝滑伪装\n老师 这真的只是个普通手环",
+    "description": "玩环被抓？装了小游戏？不用担心\n你的手环 我们来守护\n全面拟真 丝滑伪装\n老师 这真的只是个普通手环！！！",
     "preview": [
-      "media/伪装模式@2x.png"
+      "media/伪装模式@2x.png",
+      "media/容器 92@2x.png",
+      "media/容器 70@2x.png",
+      "media/容器 93@2x.png",
+      "media/容器 94@2x.png"
     ],
     "icon": "media/100_100@1x.png",
     "cover": "media/伪装模式@2x.png",
